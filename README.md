@@ -1,6 +1,6 @@
-# plugin-template
+# Disable Player Rename
 
-This is a template repository for creating plugin, feel free to use it then modify it.
+插件开启后，禁止玩家修改角色名。
 
 ## License
 

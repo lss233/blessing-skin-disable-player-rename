@@ -1,15 +1,12 @@
 {
-  "name": "",
-  "title": "",
+  "name": "disable-player-rename",
+  "title": "禁止修改角色名",
   "version": "0.1.0",
-  "description": "",
-  "author": "",
-  "url": "",
-  "namespace": "",
+  "description": "插件开启后，禁止玩家修改自己的角色名",
+  "author": "Lss233",
+  "url": "https://github.com/lss233/blessing-skin-disable-player-rename",
+  "namespace": "DisablePlayerRename",
   "require": {
     "blessing-skin-server": "^5.0.0"
-  },
-  "enchants": {
-    "config": "Configuration"
   }
 }
