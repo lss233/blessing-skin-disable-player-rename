@@ -7,6 +7,6 @@
   "url": "https://github.com/lss233/blessing-skin-disable-player-rename",
   "namespace": "DisablePlayerRename",
   "require": {
-    "blessing-skin-server": "^5.0.0"
+    "blessing-skin-server": "^5|^6"
   }
 }
